@@ -1,0 +1,33 @@
+	body{
+	    background-color:LightYellow;
+	}
+		
+	h1{
+	    font-family: Papyrus, Arial, Sans-serif;
+	    font-size:25pt;
+	    color:#002e7a;
+	}
+		
+	h2{
+	    font-family: Papyrus, Arial, Sans-serif;
+	    font-size:22pt;
+	    color:#002e7a;
+	}
+		
+	li{
+	    font-family: Papyrus, Arial, Sans-serif;
+	    font-size:15pt;
+	    color:#002e7a;    
+	}
+		
+	p{
+	    text-align: justify;
+	    font-family: Papyrus, Arial, Sans-serif;
+	    font-size:12pt;
+	    color:#002e7a;
+	}
+	    
+	img{
+	    height:200px;
+	}
+	
